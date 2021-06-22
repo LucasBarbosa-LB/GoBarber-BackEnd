@@ -5,5 +5,5 @@ Nessa aula terminaremos algumas das funcionalidades faltantes, entre elas a list
 ## Installation
 
 na pasta raiz do projeto usar os comandos ```npm install```ou  ```yarn```
-  para instalar todos os pacotes do package.json
+  para instalar todos os pacotes do package.jsonaa
 
